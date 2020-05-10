@@ -1,0 +1,13 @@
+ 
+  *{
+    margin: 0;
+    padding: 0;
+  }
+  a {
+    text-decoration: none;
+    cursor: auto;
+  }
+  body {
+    background: #f7f7f7f2;
+    font-family: 'Roboto';
+  }
