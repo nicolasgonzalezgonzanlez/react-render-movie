@@ -4,6 +4,8 @@
 
 ###### Proyecto parte de la prueba de AVALITH (challenge).
 
+![texto cualquiera por si no carga la imagen](https://github.com/nicolasgonzalezgonzanlez/react-render-movie/blob/master/news.gif?raw=true)
+
 ## Requisitos del sistema:
 
 consumir una api [themoviedb](https://www.themoviedb.org/)
