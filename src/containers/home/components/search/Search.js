@@ -25,7 +25,7 @@ function Search() {
   return (
     <>
       <Formik
-        initialValues={{text}}
+        initialValues={{text: ''}}
         validate={ value => {
           const error = {}
           if(!value.text) {
